@@ -1,0 +1,18 @@
+Easy
+Asad 13
+Qasim 28
+Ahsan 30
+Abdullah 40
+Ahmad 50
+Medium
+Ahsan 100
+Abdullah 140
+Ahmad 150
+Mohsin 155
+Qasim 160
+Hard
+Ahsan 230
+Abdullah 240
+Ahmad 250
+Mohsin 255
+Qasim 260
